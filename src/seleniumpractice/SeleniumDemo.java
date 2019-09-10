@@ -38,7 +38,11 @@ public class SeleniumDemo {
 		// 4. close the browser
 		Thread.sleep(5000);
 		driver.close();
+		 
+		//initial commit
 		
+		
+
 	}
 
 }
